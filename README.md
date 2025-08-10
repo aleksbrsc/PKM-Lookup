@@ -1,5 +1,5 @@
 # PKM Lookup
-Inspired by the Black & White Pokédex, try it @ [pkmlookup.com](https://pkmlookup.com)
+Inspired by the Black & White Pokédex, try it @ [pkmlookup.vercel.app](https://pkmlookup.vercel.app)
 
 ![demo of Musharna on the app](https://github.com/aleksbrsc/PKM_Lookup/blob/main/musharna.png?raw=true)
 
